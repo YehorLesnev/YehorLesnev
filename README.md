@@ -1,7 +1,4 @@
-
-<p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="animations/YehorLesnevych_Banner.gif" alt="my banner"></a>
-</p>
+![YehorLesnevych_Banner](animations/YehorLesnevych_Banner.gif)
 
 - 👋 Hi, I’m @YehorLesnev
 - 👀 I’m interested in IT world and coding

@@ -1,4 +1,5 @@
-![YehorLesnevych_Banner](animations/YehorLesnevych_Banner.gif)
+![YehorLesnevych_Banner](https://raw.githubusercontent.com/YehorLesnev/YehorLesnev/main/animations/YehorLesnevych_Banner.gif)
+![YehorLesnevych_Banner](https://github.com/YehorLesnev/YehorLesnev/animations/YehorLesnevych_Banner.gif)
 
 - 👋 Hi, I’m @YehorLesnev
 - 👀 I’m interested in IT world and coding

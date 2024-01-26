@@ -1,5 +1,9 @@
-![YehorLesnevych_Banner](https://raw.githubusercontent.com/YehorLesnev/YehorLesnev/main/animations/YehorLesnevych_Banner.gif)
-![YehorLesnevych_Banner](https://github.com/YehorLesnev/YehorLesnev/animations/YehorLesnevych_Banner.gif)
+
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://github.com/YehorLesnev/YehorLesnev/assets/135259671/570d2a12-3aa4-4655-a105-bea23859a8c1" alt=”my banner”>
+
+</p>
 
 - 👋 Hi, I’m @YehorLesnev
 - 👀 I’m interested in IT world and coding

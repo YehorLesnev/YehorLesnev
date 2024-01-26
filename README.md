@@ -1,7 +1,8 @@
 
 <p align=”center”>
-
+<picture>
 <img width=”200" height=”200" src=”https://github.com/YehorLesnev/YehorLesnev/assets/135259671/570d2a12-3aa4-4655-a105-bea23859a8c1" alt=”my banner”>
+</picture>
 
 </p>
 

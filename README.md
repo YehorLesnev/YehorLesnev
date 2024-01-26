@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/YehorLesnev" target="_blank" rel="noreferrer"><img src="https://github.com/YehorLesnev/YehorLesnev/assets/135259671/3e8a6be5-be49-4d18-b023-a2f84c525f86" alt="Yehor_Lesnevych_banner"></a>
+  <a href="https://www.linkedin.com/in/yehor-lesnevych-130640158/" target="_blank" rel="noreferrer"><img src="https://github.com/YehorLesnev/YehorLesnev/assets/135259671/3e8a6be5-be49-4d18-b023-a2f84c525f86" alt="Yehor_Lesnevych_banner"></a>
 </p>
 
 <h3 align="center">

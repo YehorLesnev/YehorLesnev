@@ -22,6 +22,8 @@ I'm a passionate back-end developer with a keen interest in .NET C# and a knack 
 ## 🔭 I'm currently working on
 
 - .NET C# pet projects
+- .NET C# Courses
+- Self education
 
 ## 💼 Technical Skills
 
